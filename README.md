@@ -1,5 +1,5 @@
 # EmailDestinations
-Group domain names per destination (ISPs and webmails)
+Group domain names by destination (ISPs and webmails)
 
 What's the point?
 There are two main use cases (but we can obviously find others):
