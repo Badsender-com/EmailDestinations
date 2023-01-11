@@ -20,6 +20,6 @@ You can use the file... as you wish!
 
 Column description:
 - COUNTRY: The main country of use of the domain name. The code "AA" represents international destinations.
-- DESTINATION: Name of the ISP that manages the deliverability infrastructure of the domain name.
+- DESTINATION: Name of the Mailbox Provider (MBP) that manages the deliverability infrastructure of the domain name.
 - DOMAIN: The domain name used in the email addresses without the "@" character
 - ACTIVE : "1" if the domain is active, "0" if the domain name is inactive (service closed, no MX record in the DNS, ...)
